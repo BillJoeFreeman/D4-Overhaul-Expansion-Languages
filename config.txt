@@ -1,0 +1,6 @@
+[config]
+name = d4oe_langauges
+path = C:\Users\ahmad\Documents/My Games/democracy4/mods/d4oe_langauges
+guiname = d4oe_langauges
+author = Adeptus Freemanicus
+description = Adds more langauges
